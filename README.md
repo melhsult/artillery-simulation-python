@@ -20,4 +20,4 @@ This repository contains a numerical physics simulation designed to calculate an
 * **Libraries:** `math`, `matplotlib`
 
 ---
-*Created as part of the student portfolio by Asad Sultanov (DTU Software Technology).*
+*Created as part of the student portfolio by A.S (DTU Software Technology).*
